@@ -23,7 +23,7 @@ I am currently pursuing my MBA with a double major in Data Science and Executive
 
 ---
 
-### Stroke Prediction (Previous Project)
+### Stroke Prediction 
 - Built machine learning models to predict stroke risk using demographic and health-related features.  
 - Focused on regression models and feature analysis to improve interpretability.  
 - **Key Outcome:** Delivered an early-stage model demonstrating predictive power for healthcare data.  
